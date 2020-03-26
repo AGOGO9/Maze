@@ -582,7 +582,7 @@ function updisplay(){
     }
 
   }else if(pro == 2){
-    setTimeout("ctx.drawImage(img24,0,0,700,500)",100)
+    setTimeout("ctx.drawImage(img24,0,0,700,500)",2000)
   }else if(pro == 3){
     setTimeout("ctx.drawImage(img25,0,0,700,500)",7)
   }
